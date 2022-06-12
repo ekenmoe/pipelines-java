@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/DevSnow-KEN/TheMcguffin/_apis/build/status/ekenmoe.pipelines-java?branchName=main)](https://dev.azure.com/DevSnow-KEN/TheMcguffin/_build/latest?definitionId=16&branchName=main)
 
 # Contributing
 
